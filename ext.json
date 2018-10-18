@@ -1,0 +1,8 @@
+{
+    "identifier": "io.github.matthew-cox.mojave-dark-mode",
+    "name": "Mojave Dark Mode",
+    "content_type": "SN|Component",
+    "area": "themes",
+    "version": "0.0.1",
+    "url": "http://localhost:8888/mojave-dark-mode.css"
+}

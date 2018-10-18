@@ -1,0 +1,20 @@
+{
+  name: "Mojave Dark Mode",
+  constants: {
+    mainTintColor: "#fffdff",
+    mainBackgroundColor: "#252525",
+    mainTextColor: "#D8D8D8",
+    navBarColor: "#171925",
+    mainDimColor: "#525252",
+    navBarTextColor: "#D8D8D8",
+    plainCellBorderColor: "#525252",
+    selectedBackgroundColor: "#585858",
+    composeBorderColor: "#525252"
+  },
+
+  rules: {
+
+  },
+
+  statusBar: "dark-content"
+}
