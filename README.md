@@ -11,7 +11,7 @@ For Standard Notes (https://standardnotes.org/) color theme which roughly matche
 
 ![Standard Notes Mojave Dark Mode](preview.png "Standard Notes Mojave Dark Mode")
 
-Tested on macos 10.14
+Tested on macOS 10.14
 
 Installation instructions: https://docs.standardnotes.org/extensions/publishing.html
 
