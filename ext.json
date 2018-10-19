@@ -4,5 +4,5 @@
     "content_type": "SN|Component",
     "area": "themes",
     "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/matthew-cox/sn-theme-mojave-dark-mode/master/mojave-dark-mode.css"
+    "url": "http://localhost:8888/dist/mojave-dark-mode.css"
 }
