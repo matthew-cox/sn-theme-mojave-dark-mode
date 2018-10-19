@@ -1,0 +1,12 @@
+{
+  "name": "sn-mojave-dark-mode",
+  "version": "0.0.1",
+  "main": "dist/mojave-dark-mode.css",
+  "sn": {
+    "main": "dist/mojave-dark-mode.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthew-cox/sn-theme-mojave-dark-mode.git"
+  }
+}

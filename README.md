@@ -30,8 +30,8 @@ metatype: json
   "version": "0.0.1",
   "description": "Mojave Dark Mode theme.",
   "version": "0.0.1",
-  "url": "https://raw.githubusercontent.com/matthew-cox/sn-theme-mojave-dark-mode/master/dist/mojave-dark-mode.css"
-  "download_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode/archive/master.zip"
+  "url": "https://raw.githubusercontent.com/matthew-cox/sn-theme-mojave-dark-mode/master/dist/mojave-dark-mode.css",
+  "download_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode/archive/master.zip",
   "latest_url": "https://listed.standardnotes.org/my-extension-json-link",
   "marketing_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode",
   "thumbnail_url": "https://raw.githubusercontent.com/matthew-cox/sn-theme-mojave-dark-mode/master/preview.png"
