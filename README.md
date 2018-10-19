@@ -40,5 +40,5 @@ metatype: json
 
 # Revision history
 
-v0.0.2: Add `package.json`
-v0.0.1: Tolerable
+  * v0.0.2: Add `package.json`
+  * v0.0.1: Tolerable
