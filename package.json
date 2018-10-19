@@ -1,6 +1,6 @@
 {
   "name": "sn-mojave-dark-mode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/mojave-dark-mode.css",
   "sn": {
     "main": "dist/mojave-dark-mode.css"
