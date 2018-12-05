@@ -274,7 +274,7 @@ body {
 
 .CodeMirror .cm-variable-2 {
   font-family: arial;
-  color: var(--highlight-color) !important;
+  color: var(--foreground-color) !important;
 }
 
 .CodeMirror .cm-link, .cm-string, .cm-keyword {
@@ -307,6 +307,12 @@ body {
   color: var(--content-4) !important;
 }
 
+.editor-toolbar a:hover {
+  background-color: var(--background-4) !important;
+  color: var(--content-3) !important;
+  border-color: var(--border-color) !important;
+}
+
 .editor-toolbar a.active {
   background-color: var(--highlight-color) !important;
   border-color: var(--background-1) !important;
@@ -333,8 +339,8 @@ body {
   text-decoration: underline !important;
 }
 
-.editor-preview pre {
-  background-color: var(--background-3) !important;
+.editor-preview-active, .editor-preview-active-side pre {
+  background-color: var(--background-2) !important;
 }
 
 /* Simple Markdown Editor */
