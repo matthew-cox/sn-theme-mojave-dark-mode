@@ -13,7 +13,7 @@ For Standard Notes (https://standardnotes.org/) color theme which roughly matche
 
 Tested on macOS 10.14
 
-Installation instructions: https://docs.standardnotes.org/extensions/publishing.html
+Installation instructions: https://docs.standardnotes.com/extensions/publishing
 
 **sn-mojave-dark-mode.json**
 
